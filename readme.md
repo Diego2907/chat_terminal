@@ -1,1 +1,2 @@
-Repo para hacer un chat en terminal usando un broadcats
+EQUIPO 7
+Reto: Mensaje privado, usar /msg para enviar un mensaje privado a un usuario
